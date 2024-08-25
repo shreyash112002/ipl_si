@@ -1,0 +1,33 @@
+/* src/styles.css */
+.home {
+    text-align: center;
+  }
+  
+  .banner {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-bottom: 2px solid #dee2e6;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav li {
+    margin: 10px 0;
+  }
+  
+  .form-container {
+    padding: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.9em;
+  }
+  
